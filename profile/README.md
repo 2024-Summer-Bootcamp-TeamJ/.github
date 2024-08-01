@@ -1,5 +1,5 @@
 # <p align = center> 🌳🌳 말해봐요 고민의 숲 🌳🌳 <p>
-### <p align = center> 🎊 2024 Techeer Summer S/W BootCamp 🎊 <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width=40%, height=25%, margin=0, src="https://github.com/user-attachments/assets/fa618082-0629-4c78-9f9e-81a5318fd0a2"><br> &nbsp;&nbsp;&nbsp;&nbsp;🐻 동물의 숲 캐릭터들과 함께하는 멘토링 서비스! 🦝 <p> 
+### <p align = center> 🎊 2024 Techeer Summer S/W BootCamp 🎊 <br> &nbsp;&nbsp;&nbsp;&nbsp;<img width=40%, height=25%, margin=0, src="https://github.com/user-attachments/assets/fa618082-0629-4c78-9f9e-81a5318fd0a2"><br> &nbsp;&nbsp;&nbsp;&nbsp;🐻 동물의 숲 캐릭터들과 함께하는 AI 멘토링 서비스! 🦝 <p> 
 ##### <p align = center> URL : https://forest-of-thoughts.site <p>
 <br>
 
@@ -22,7 +22,7 @@
 
 </br>
 
-## 📽️ Demo
+## 🎥 Demo
 |**로그인 페이지**|**멘토 선택 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/153569c2-28ad-4c1c-bd36-819c3902eae1">|<img width="390" height="220" alt="Mentor Page" src="https://github.com/user-attachments/assets/c239ffcb-94aa-4794-bf12-25a3a8712852">|
@@ -35,7 +35,7 @@
 
 
 
-## 🖥️ System Architecture
+## 🚨 System Architecture
 
 <img alt="system architecture" src="https://github.com/user-attachments/assets/bd544a39-1b21-42c8-8d62-da1de315e4bc">
 
