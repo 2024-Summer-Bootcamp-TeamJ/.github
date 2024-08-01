@@ -160,7 +160,7 @@ yarn dev
 
 
 
-## 🗂️ Directory Structure
+## 📚 Directory Structure
 
 <details>
   <summary>Frontend</summary>
