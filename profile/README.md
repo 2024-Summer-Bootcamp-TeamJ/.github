@@ -143,7 +143,7 @@ docker-compose up -d
 ```
 ### Frontend
 ```
-git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Frontend.git
+$ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Frontend.git
 ```
 ### Install
 ```
