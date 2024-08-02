@@ -111,7 +111,7 @@
 $ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Backend.git
 ```
 ### env setting in the Backend folder
-* backend/.env
+* Backend/.env
 ```
 # mysql
 DATABASE_URL=
