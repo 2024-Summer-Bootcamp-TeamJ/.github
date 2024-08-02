@@ -70,7 +70,7 @@
 ## 🔬 Monitoring
 <table align="center" style="border-collapse: collapse;">
    <tr>
-    <td colspan="2" align="center">Docker Dashboard</td>
+    <td colspan="2" align="center"><b>Docker Dashboard</b></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -78,8 +78,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Celery Dashboard</td>
-    <td align="center">FastAPI Dashboard</td>
+    <td align="center"><b>Celery Dashboard</b></td>
+    <td align="center"><b>FastAPI Dashboard</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -90,8 +90,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Nginx Dashboard</td>
-    <td align="center">RabbitMQ Dashboard</td>
+    <td align="center"><b>Nginx Dashboard</b></td>
+    <td align="center"><b>RabbitMQ Dashboard</b></td>
   </tr>
   <tr>
     <td align="center">
