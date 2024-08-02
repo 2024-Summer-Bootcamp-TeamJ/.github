@@ -163,7 +163,7 @@ yarn dev
 ## 📚 Directory Structure
 
 <details>
-  <summary>Frontend</summary>
+  <summary><b>Frontend</b></summary>
    <pre>
     <code>
       📦Frontend  
@@ -389,7 +389,7 @@ yarn dev
 
 
 <details>
-  <summary>Backend</summary>
+  <summary><b>Backend</b></summary>
   <pre>
     <code>
       📦Backend
